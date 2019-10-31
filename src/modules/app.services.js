@@ -1,4 +1,4 @@
-export class AppService {
+export default class AppService {
     constructor(text) {
         this.text = text
     }
