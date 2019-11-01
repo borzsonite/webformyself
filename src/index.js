@@ -1,6 +1,8 @@
 import { config } from './modules/config'
 import AppService from './modules/app.services'
 import './modules/header.component'
+import './css/index.css'
+// console.log(css.toString())
 
 console.log('Hello world!');
 
